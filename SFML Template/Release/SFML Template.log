@@ -1,0 +1,9 @@
+﻿  GameOverState.cpp
+  GameState.cpp
+  MainState.cpp
+  Generating code
+  7 of 720 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML Template.vcxproj -> C:\Users\kreez\Documents\Flappy Bird C++\SFML Group\SFML Template\Release\SFML Template.exe
